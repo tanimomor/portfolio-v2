@@ -109,31 +109,31 @@ export const projects = [
 export const testimonials = [
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Tanim was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tanim's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Tanim is the ideal partner.",
         name: "Mostafa Zaman Abbas",
         title: "General Manager, IHCM-BD",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Tanim was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tanim's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Tanim is the ideal partner.",
         name: "Mostafa Zaman Abbas",
         title: "General Manager, IHCM-BD",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Tanim was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tanim's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Tanim is the ideal partner.",
         name: "Mostafa Zaman Abbas",
         title: "General Manager, IHCM-BD",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Tanim was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tanim's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Tanim is the ideal partner.",
         name: "Mostafa Zaman Abbas",
         title: "General Manager, IHCM-BD",
     },
     {
         quote:
-            "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+            "Collaborating with Tanim was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Tanim's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Tanim is the ideal partner.",
         name: "Mostafa Zaman Abbas",
         title: "General Manager, IHCM-BD",
     },
@@ -182,7 +182,7 @@ export const workExperience = [
     },
     {
         id: 2,
-        title: "Student Deep Learning Researcher",
+        title: "Student Researcher",
         desc: "Assisted in the development of a deep learning pipeline using PyTorch, Keras, Pandas for stock market analysis.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp2.svg",

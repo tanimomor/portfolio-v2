@@ -4,9 +4,11 @@ import {FaLocationArrow} from "react-icons/fa6";
 
 import {projects} from "@/data";
 import {PinContainer} from "./ui/Pin";
-import Link from "next/link";
+import {useState} from "react";
 
 const RecentProjects = () => {
+    const [isViewMoreClicked, setisViewMoreClicked] = useState(false);
+
     return (
         <section id="projects">
             <div className="w-full py-20">
@@ -93,6 +95,16 @@ const RecentProjects = () => {
                         </div>
                     ))}
                 </div>
+                <div className="flex justify-center mt-10">
+                    <button onClick={()=>{setisViewMoreClicked((prevValue)=>!prevValue)}} className="p-[3px] relative mx-auto w-60">
+                        <div className="absolute inset-0 bg-gradient-to-r from-indigo-500 to-[#8B5CF6] rounded-lg"/>
+                        <div
+                            className="w-full px-8 py-2 bg-slate-950 rounded-[6px]  relative group transition duration-200 text-white hover:bg-transparent">
+                            {isViewMoreClicked ? "Show less" : "View more"}
+                        </div>
+                    </button>
+                </div>
+
             </div>
         </section>
     );
