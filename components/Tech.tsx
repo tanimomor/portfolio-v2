@@ -6,6 +6,10 @@ const Tech = () => {
     const technologies = [
         {
             name: "Django",
+            src: "assets/tech/dotnet-ar21.svg",
+        },
+        {
+            name: "Django",
             src: "assets/tech/Django.svg",
         },
         {
