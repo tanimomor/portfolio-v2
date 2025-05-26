@@ -60,10 +60,6 @@ const Tech = () => {
             name: "NGINX",
             src: "assets/tech/NGINX.svg",
         },
-        {
-            name: "TensorFlow",
-            src: "assets/tech/TensorFlow.svg",
-        },
         // {
         //     name: "C++",
         //     src: "assets/tech/C++.svg",
